@@ -1,0 +1,13 @@
+.nav-header {
+  width: 100%;
+  background-color: rgb(255, 37, 121);
+}
+.signUp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  color: #fff;
+  width: 25%;
+  margin: auto;
+}
