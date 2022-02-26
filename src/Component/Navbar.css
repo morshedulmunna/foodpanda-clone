@@ -11,3 +11,10 @@
   width: 25%;
   margin: auto;
 }
+.signUp a {
+  padding: 0.5rem 0.9rem;
+  border-radius: 7px;
+  border: 1px solid #fff;
+  text-decoration: none;
+  color: #fff;
+}

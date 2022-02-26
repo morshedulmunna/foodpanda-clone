@@ -11,7 +11,7 @@ const Navbar = () => {
           <div className="signUp">
             <span>icon</span>
             <h3>Do you need a business account?</h3>
-            <Link to="#">Sign Up</Link>
+            <Link to="#">Sign Up Now</Link>
           </div>
         </div>
         <div className="navbar">
